@@ -1,6 +1,6 @@
 ## Overview
 
-A small project I build as part of the Complete Vue Mastery 2021 (w/ Vuex, Composition API, Router) course by zerotomastery.io
+A small project I built as part of the Complete Vue Mastery 2021 (w/ Vuex, Composition API, Router) course by zerotomastery.io
 
 ### Screenshot
 
